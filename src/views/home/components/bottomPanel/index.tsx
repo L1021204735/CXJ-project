@@ -31,6 +31,7 @@ export default defineComponent({
       showFromPanel: false,
       selectedRow: {
         equipmentCoding: null,
+        
       },
       tableData: [
         {
